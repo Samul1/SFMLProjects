@@ -19,14 +19,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Media Include="x64\Debug\file_example_WAV_1MG.wav">
-      <Filter>Resource Files</Filter>
-    </Media>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="x64\Debug\meme.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-  </ItemGroup>
 </Project>
